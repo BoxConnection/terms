@@ -1,2 +1,1 @@
-# terms
-Termos de uso Box Connection
+# Termos de uso Box Connection
